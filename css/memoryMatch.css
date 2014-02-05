@@ -1,0 +1,37 @@
+
+
+#messages, h1 {
+    width: 500px;
+    height: 60px;
+    margin: 0 auto;
+    font-size: 3em;
+    text-align: center;
+    font-family: Helvetica, Arial, "sans-serif";
+}
+
+#board {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 80px;
+    height: 80px;
+    margin: 8px;
+    background-color: #265E8C;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+    color: #265E8C;
+}
+
+h1 {
+    width: 700px;
+    height: 100px;
+    font-size: 3.5em;
+}
